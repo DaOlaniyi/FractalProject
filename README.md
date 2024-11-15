@@ -1,1 +1,5 @@
-"# FractalProject" 
+Design Choices:
+
+Collaborators:
+
+Other stuff:
